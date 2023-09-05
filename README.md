@@ -1,4 +1,3 @@
 # metauri-db
-Torrent database dump
-Format
-HASH\tNAME\IMDB ID (if available)
+## Metauri database dump
+File columns: HASH,  NAME,  IMDB ID (if available)
